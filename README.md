@@ -18,10 +18,10 @@ These are some of the technologies and tools that I work with:
 </p>
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofaustino&show_icons=true&count_private=1" alt="rodrigofaustino" /></a></p>
 
-<p><a href="https://ceuvago.com/" target="blank">Sobre Teologia</a>&nbsp;</p>
-<p><a href="https://votos.ceuvago.com/crenca/" target="blank">Sobre Dados de votação</a>&nbsp;</p>
-<p><a href="https://apps.rodrigofaustino.com.br" target="blank">Portifolio</a>&nbsp;</p>
-<p><a href="https://www.youtube.com/channel/UCHa1rBqOmKSCddUN26jpaIQ" target="blank">Canal Tec</a>&nbsp;</p>
+<p>-->><a href="https://ceuvago.com/" target="blank">Sobre Teologia</a>&nbsp;</p>
+<p>-->><a href="https://votos.ceuvago.com/crenca/" target="blank">Sobre Dados de votação</a>&nbsp;</p>
+<p>-->><a href="https://apps.rodrigofaustino.com.br" target="blank">Portfólio</a>&nbsp;</p>
+<p>-->><a href="https://www.youtube.com/channel/UCHa1rBqOmKSCddUN26jpaIQ" target="blank">Canal Tec</a>&nbsp;</p>
 
 <!--
 **danielgtaylor/danielgtaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
