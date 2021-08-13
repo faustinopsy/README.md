@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Faustino</h1>
-<h3 align="center">php developer system analyst in São Paulo, BR</h3>
+### Hi there 👋
 
-<p align="center">I'm passionate about 🎬 live video streaming, 🛠 HTTP & REST APIs and developer tooling like 📦 SDKs & 🖥 CLIs</p>
+I'm Rodrigo Faustino,  I'm a Web developer at Govern São Paulo, and I've been working in tech since 2013. I'm from Brazil.
+
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-php-4479A1?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigofaustino&show_icons=true&count_private=1" alt="rodrigofaustino" /></a></p>
 
